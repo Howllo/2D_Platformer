@@ -1,4 +1,6 @@
 ## Requirements
+Unity Version: 2020.3.40f1
+
 This application uses: 
 * [Polygon Arsenal](https://assetstore.unity.com/packages/vfx/particles/polygon-arsenal-109286)
 * [GUI PRO Kit - Casual Game](https://assetstore.unity.com/packages/2d/gui/gui-pro-casual-game-176695)
