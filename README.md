@@ -19,4 +19,4 @@ GUI Pro Kit - Assets/Assets/GUI PRO Kit - Casual Game
 ## Game Build Download
 https://drive.google.com/file/d/1ad78GmFjPz5L7lvrunszMFeUtDu_29z5/view?usp=sharing
 
-Audio is set to 0% you'll need click the the gear and set it to whatever you want.
+The audio is set to 0%. you will need to click the gear and set it to your desired want.
